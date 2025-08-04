@@ -1,7 +1,7 @@
 {
   "name": "react-typescript",
   "version": "1.0.0",
-  "homepage": "https://github.com/kouya0911/todo-react.git",
+  "homepage": "https://kouya0911.github.io/todo-react",
   "description": "React and TypeScript example starter project",
   "keywords": ["typescript", "react", "starter"],
   "main": "src/index.jsx",
